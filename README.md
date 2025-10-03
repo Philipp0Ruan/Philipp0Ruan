@@ -1,7 +1,7 @@
 <!-- Banner (troque pelo seu em assets/banner.png) -->
-<p align="center">
+<!-- <p align="center">
   <img src="assets/banner.png" alt="Philipp — IA & Automação" width="100%" />
-</p>
+</p> -->
 
 <h1 align="center">Fala, eu sou o Philipp 👋</h1>
 <p align="center">
