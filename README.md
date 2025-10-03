@@ -3,7 +3,7 @@
   <img src="assets/banner.png" alt="Philipp — IA & Automação" width="100%" />
 </p> -->
 
-<h1 align="center">Fala, eu sou o Philipp 👋</h1>
+<h1 align="center">Fala, eu sou o Philipp</h1>
 <p align="center">
   Dev Full Stack • IA & Automação (RPA, Agentes) • Docker • n8n • React • JS/Python<br/>
   Inglês básico • Aberto a novas conexões
